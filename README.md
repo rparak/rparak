@@ -30,5 +30,5 @@ https://www.youtube.com/c/RomanParak/videos
 
 **LinkedIn:**
 
-<a href = 'https://www.linkedin.com/in/roman-parak-53960910a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rparak/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/roman-parak-53960910a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
