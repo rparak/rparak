@@ -26,7 +26,9 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 
 **Contact:**
 
-[LinkedIn](https://www.linkedin.com/in/roman-parak-53960910a/) [Outlook](mailto:Roman.Parak@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/roman-parak-53960910a/) 
+
+[Outlook](mailto:Roman.Parak@outlook.com)
 
 **Support:**
 
