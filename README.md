@@ -8,6 +8,14 @@ Detailed-focused researcher with hands-on experience in the field of advanced ro
 
 Python, C / C++, C#, MATLAB
 
+**Software:**
+
+ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
+
+**Library:**
+
+OpenAI Gym, Tensorflow, PyTorch, OpenCV, Point Cloud Library (PCL)
+
 **Personal interests:**
 
 Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Books, Movies, Music, Healthy Lifestyle
