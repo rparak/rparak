@@ -24,11 +24,12 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
 
-**YouTube:**
-
-[Link](https://www.youtube.com/c/RomanParak/videos)
-
-**LinkedIn:**
+**Contact:**
 
 [Link](https://www.linkedin.com/in/roman-parak-53960910a/)
+
+**Support:**
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCaHeraYyxEJgLrNdtFmcrqQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
