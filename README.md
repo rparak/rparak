@@ -29,5 +29,6 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 https://www.youtube.com/c/RomanParak/videos
 
 **LinkedIn:**
-![Roman P.](https://www.linkedin.com/in/roman-parak-53960910a/)
+
+![Link](https://www.linkedin.com/in/roman-parak-53960910a/)
 
