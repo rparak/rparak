@@ -32,5 +32,5 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 
 **Support:**
 
-<a href="https://www.youtube.com/c/RomanParak/featured?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?style=social&logoColor=black&label=Subscribe#"/></a>
+<a href="https://www.youtube.com/channel/UCaHeraYyxEJgLrNdtFmcrqQ"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?style=social&logoColor=black&label=Subscribe#"/></a>
 
