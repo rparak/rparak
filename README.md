@@ -14,8 +14,6 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 
 **GitHub:**
 
-https://github.com/rparak
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
 
 **YouTube:**
