@@ -1,4 +1,4 @@
-# About
+# About me
 
 A strong enthusiast for robotics, machine vision, and AI.
 
