@@ -32,10 +32,3 @@ Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Book
 
 [YouTube](https://www.youtube.com/c/RomanParak)
 
-
-**P.S.:**
-
-I'm not a workaholic, I just love my job.
-
-May the force be with you.
-
