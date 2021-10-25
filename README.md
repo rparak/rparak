@@ -1,6 +1,6 @@
 # About me
 
-A strong enthusiast for robotics, machine vision, and AI.
+A strong enthusiast for robotics, machine vision, and AI. I'm interested in basically everything related to robotics and automation.
 
 Detailed-focused researcher with hands-on experience in the field of advanced robotics, such as Motion Planning (Optimization, Kinematics, ..), Machine Learning, Image Processing / Computer Vision and Industry 4.0 (Simulation / Digital twin, System Integration, ..) Ability to effectively solve complex engineering problems and adapt to change.
 
