@@ -2,7 +2,7 @@
 
 A strong enthusiast for robotics, machine vision, and AI. Interested in basically everything related to robotics and automation.
 
-Detailed-focused researcher with hands-on experience in the field of advanced robotics, such as Motion Planning (Optimization, Kinematics, ..), Machine Learning, Image Processing / Computer Vision and Industry 4.0 (Simulation / Digital twin, System Integration, ..) Ability to effectively solve complex engineering problems and adapt to change.
+Detailed-focused researcher with hands-on experience in the field of advanced robotics, such as Motion Planning (Optimization, Kinematics, ..), Machine Learning, Image Processing / Computer Vision and Industry 4.0 (Simulation / Digital twin, System Integration, ..) Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for extended periods of time and meeting tight deadlines.
 
 **Programming Language:**
 
