@@ -14,7 +14,7 @@ ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, B
 
 **Library:**
 
-OpenAI Gym, Tensorflow, PyTorch, OpenCV, Point Cloud Library (PCL)
+OpenAI Gym, Tensorflow, OpenCV, Point Cloud Library (PCL)
 
 **Personal interests:**
 
