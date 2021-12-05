@@ -18,7 +18,7 @@ OpenAI Gym, Tensorflow, OpenCV, Point Cloud Library (PCL)
 
 **Personal interests:**
 
-Science, Robotics, AI, Technology, Electromobility, Travel, Hiking, Sports, Books, Movies, Music, Healthy Lifestyle
+Science, Robotics, AI, Mathematics, Electromobility, Travel, Hiking, Sports, Books, Movies, Music, Healthy Lifestyle
 
 **GitHub:**
 
