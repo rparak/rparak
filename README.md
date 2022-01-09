@@ -8,7 +8,7 @@ Very good presentation skills acquired through presentations at various conferen
 
 **Programming Language:**
 
-Python, C / C++, C#, MATLAB
+C / C++, Python, C#, MATLAB
 
 **Software:**
 
