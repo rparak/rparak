@@ -14,10 +14,6 @@ C / C++, Python, C#, MATLAB
 
 ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
 
-**Library:**
-
-OpenAI Gym, Tensorflow, OpenCV, Point Cloud Library (PCL)
-
 **Personal interests:**
 
 Science, Robotics, AI, Mathematics, Ecology, Travel, Hiking, Sports, Books, Movies, Music, Healthy Lifestyle
