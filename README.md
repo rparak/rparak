@@ -16,7 +16,7 @@ ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, B
 
 **Personal interests:**
 
-Science, Robotics, Machine Learning, Mathematics, Ecology, Travel, Hiking, Sports, Books, Movies, Music, Healthy Lifestyle
+Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
 **GitHub:**
 
