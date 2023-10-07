@@ -2,9 +2,12 @@
 
 A strong enthusiast for robotics, machine learning and computer vision. Interested in basically everything related to robotics and automation.
 
-Detailed-focused researcher with hands-on experience in the field of advanced robotics, such as motion planning (optimization, kinematics, ..), machine learning, and Industry 4.0 (simulation/digital twin, system integration, ..) Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for extended periods of time and meeting tight deadlines.
+Detailed-focused researcher with hands-on experience in the field of general robotics, such as motion planning (optimization, kinematics, ..), machine learning, and Industry 4.0 (simulation/digital twin, system integration, ..) Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for extended periods of time and meeting tight deadlines.
 
 Very good presentation skills acquired through presentations at various conferences and university courses. Ability to lead and motivate people based on experience of leading a team of n-member bachelor's / master's degree students.
+
+And one of my best quotes at the end...
+If you want to improve something, you must first understand it. The combination of practical and theoretical knowledge is not an option, it is a must.
 
 **Programming Language:**
 
