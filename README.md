@@ -7,6 +7,7 @@ A detailed-focused researcher with hands-on experience in the field of general r
 Very good presentation skills acquired through presentations at various conferences and university courses. Ability to lead and motivate people based on experience leading a team of n-member Bachelor / Master students.
 
 And one of my best quotes at the end...
+
 If you want to improve something, you must first understand it. The combination of practical and theoretical knowledge is not an option, it is a must.
 
 **Programming Language:**
