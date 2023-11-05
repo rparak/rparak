@@ -15,7 +15,7 @@ If you want to improve something, you must first understand it. The combination 
 C/C++, Python, C#, MATLAB
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" height="50" style="vertical-align:top; margin:4px">
