@@ -12,14 +12,7 @@ If you want to improve something, you must first understand it. The combination 
 
 **📝 Programming Languages:**
 
-C/C++, Python, C#, MATLAB
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" height="50" style="vertical-align:top; margin:4px">
-</p>
+C/C++, Python, C#, ANSI C/C++, IEC 61131-3, MATLAB
 
 **👨‍💻 Software:**
 
