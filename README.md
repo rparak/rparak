@@ -28,7 +28,9 @@ Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
 **Contact:**
 
-[LinkedIn](https://www.linkedin.com/in/roman-parak-53960910a/) [Outlook](mailto:Roman.Parak@outlook.com)
+<p align="center">
+ <a href="https://www.linkedin.com/in/roman-parak-53960910a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 **Support:**
 
