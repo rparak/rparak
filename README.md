@@ -14,6 +14,10 @@ If you want to improve something, you must first understand it. The combination 
 
 C/C++, Python, C#, MATLAB
 
+<p align="center">
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 **👨‍💻 Software:**
 
 ROS (Robot Operating System), PyBullet, B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
