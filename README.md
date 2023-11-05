@@ -22,17 +22,18 @@ ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, B
 
 Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
-**GitHub:**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
-
 **Contact:**
 
 <p align="center">
+  <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/roman-parak-53960910a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 **Support:**
 
 [YouTube](https://www.youtube.com/c/RomanParak)
+
+**GitHub:**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
 
