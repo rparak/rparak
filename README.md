@@ -1,4 +1,4 @@
-# About me
+# 🙋‍♂️ About me ...
 
 A strong enthusiast for robotics, machine learning, and computer vision. Interested in basically everything related to robotics and automation.
 
@@ -10,15 +10,15 @@ And one of my best quotes at the end...
 
 If you want to improve something, you must first understand it. The combination of practical and theoretical knowledge is not an option, it is a must.
 
-**Programming Languages:**
+**</> Programming Languages:**
 
 C / C++, Python, C#, MATLAB
 
-**Software:**
+**👨‍💻 Software:**
 
 ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
 
-**Personal Interests:**
+**🚀 Personal Interests:**
 
 Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
