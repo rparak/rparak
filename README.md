@@ -33,7 +33,7 @@ Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
 <p align="center">
   <a href="https://www.youtube.com/@RomanParak/videos" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px; fill: blue;">
   </a>
 </p>
 
