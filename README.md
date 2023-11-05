@@ -39,5 +39,5 @@ Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
 **GitHub:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&&theme=dark&show_icons=true&include_all_commits=true)
 
