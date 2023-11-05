@@ -26,7 +26,7 @@ Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
 <p align="center">
   <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/roman-parak-53960910a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 **🤝 Support:**
