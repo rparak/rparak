@@ -32,13 +32,8 @@ Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 **🤝 Support:**
 
 <p align="center">
-  <style>
-  .custom-svg-color {
-    fill: red; /* Change 'red' to your desired color */
-  }
-</style>
   <a href="https://www.youtube.com/@RomanParak/videos" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px" class="custom-svg-color">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="YouTube" height="40" style="vertical-align:top; margin:4px" class="red">
   </a>
 </p>
 
