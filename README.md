@@ -10,7 +10,7 @@ And one of my best quotes at the end...
 
 If you want to improve something, you must first understand it. The combination of practical and theoretical knowledge is not an option, it is a must.
 
-**Programming Language:**
+**Programming Languages:**
 
 C / C++, Python, C#, MATLAB
 
@@ -18,7 +18,7 @@ C / C++, Python, C#, MATLAB
 
 ROS (Robot Operating System), B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
 
-**Personal interests:**
+**Personal Interests:**
 
 Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
