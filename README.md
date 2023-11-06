@@ -12,7 +12,7 @@ If you want to improve something, you must first understand it. The combination 
 
 **📝 Programming Languages:**
 
-C/C++, Python, C#, ANSI C/C++, IEC 61131-3, MATLAB
+Python, C/C++, C#, ANSI C/C++, IEC 61131-3, MATLAB
 
 **👨‍💻 Software:**
 
