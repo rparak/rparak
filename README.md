@@ -14,9 +14,9 @@ If you want to improve something, you must first understand it. The combination 
 
 Python, C/C++, C#, ANSI C/C++, IEC 61131-3, MATLAB
 
-**👨‍💻 Software:**
+**👨‍💻 Tools & Technologies::**
 
-ROS (Robot Operating System), PyBullet, B&R Automation Studio, ABB RobotStudio, Unity3D, Blender
+ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI Gym, TensorFlow, PyTorch, YOLO, OpenCV
 
 **🚀 Personal Interests:**
 
