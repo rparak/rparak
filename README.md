@@ -6,9 +6,11 @@ A detailed-focused researcher with hands-on experience in the field of general r
 
 Very good presentation skills acquired through presentations at various conferences and university courses. Ability to lead and motivate people based on experience leading a team of n-member Bachelor / Master students.
 
-And one of my best quotes at the end... 💡
+Some of my quotes. Please, think about it... 💡
 
-If you want to improve something, you must first understand it. The combination of practical and theoretical knowledge is not an option, it is a must.
+1. Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth.
+2. If you want to improve something, you must first understand it. 
+3. The combination of practical and theoretical knowledge is not an option, it is a must.
 
 **📝 Programming Languages:**
 
