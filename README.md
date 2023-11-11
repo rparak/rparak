@@ -8,9 +8,9 @@ Very good presentation skills acquired through presentations at various conferen
 
 Some of my quotes. Please, think about it... 💡
 
-1. Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth.
-2. If you want to improve something, you must first understand it. 
-3. The combination of practical and theoretical knowledge is not an option, it is a must.
+1. If you want to improve something, you must first understand it. 
+2. The combination of theoretical and practical knowledge is not an option, it is a must.
+3. Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth.
 
 **📝 Programming Languages:**
 
