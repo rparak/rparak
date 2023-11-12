@@ -16,7 +16,7 @@ Some of my quotes. Please, think about it... 💡
 
 Python, C/C++, C#, ANSI C/C++, IEC 61131-3, MATLAB
 
-**👨‍💻 Tools & Technologies::**
+**👨‍💻 Tools & Technologies:**
 
 ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI Gym, TensorFlow, PyTorch, YOLO, OpenCV
 
