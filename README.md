@@ -23,6 +23,10 @@ ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI
 
 Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
 
+**📝 Google Scholar:**
+
+https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
+
 **✉️ Contact:**
 
 <p align="center">
