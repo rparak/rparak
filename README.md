@@ -1,6 +1,6 @@
 # 🙋‍♂️ About me ...
 
-As a researcher specializing in industrial artificial intelligence, robotics, and simulation, I develop AI-driven solutions to tackle complex engineering challenges and enhance the efficiency of industrial processes. My Ph.D. research at Brno University of Technology focused on advancing industrial robotics methods in alignment with the Industry 4.0 concept.
+As a researcher specializing in industrial artificial intelligence, robotics, and simulation, I develop AI-driven solutions to tackle complex engineering challenges and enhance the efficiency of industrial processes. My Ph.D. research at Brno University of Technology focused on advancing industrial robotics methods in alignment with the principles of Industry 4.0. This research laid the foundation for my ongoing work in developing AI-driven methods to enhance efficiency and flexibility in autonomous systems for industrial applications.
 
 With extensive experience leading research projects, mentoring researchers and engineers, and fostering international collaboration, I am committed to pushing the boundaries of technological innovation through cutting-edge AI methods in industrial applications.
 
