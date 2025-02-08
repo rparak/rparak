@@ -19,7 +19,7 @@ Python, C/C++, C#, ANSI C/C++, IEC 61131-3, MATLAB
 
 **👨‍💻 Tools & Technologies:**
 
-ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI Gym, TensorFlow, PyTorch, YOLO, OpenCV
+ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI Gym, NVIDIA Isaac Sim, TensorFlow, PyTorch, Nevergrad, YOLO, OpenCV
 
 **🚀 Personal Interests:**
 
