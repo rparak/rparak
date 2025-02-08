@@ -1,15 +1,17 @@
 # 🙋‍♂️ About me ...
 
-A strong enthusiast for robotics, machine learning, and machine vision. Interested in basically everything related to robotics and automation.
+As a researcher specializing in industrial artificial intelligence, robotics, and simulation, I develop AI-driven solutions to tackle complex engineering challenges and enhance the efficiency of industrial processes. My Ph.D. research at Brno University of Technology focused on advancing industrial robotics methods in alignment with the Industry 4.0 concept.
 
-A detailed-focused researcher with hands-on experience in the field of general robotics, such as motion planning, kinematics, machine learning, and machine vision. Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for extended periods of time and meeting tight deadlines.
+With extensive experience leading research projects, mentoring researchers and engineers, and fostering international collaboration, I am committed to pushing the boundaries of technological innovation through cutting-edge AI methods in industrial applications.
 
-Very good presentation skills acquired through presentations at various conferences and university courses. Ability to lead and motivate people based on experience leading a team of n-member Bachelor / Master students.
+Passionate about knowledge sharing, I actively contribute to the robotics community through open-source projects, with my work available on GitHub and YouTube, and my research published on Google Scholar. I also regularly present research findings at international and regional conferences.
 
 Some of my quotes. Please, think about it... 💡
 
 1. If you want to improve something, you must first understand it. The combination of theoretical and practical knowledge is not an option, it is a must.
 2. Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth.
+
+Beyond my professional work, I am dedicated to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
 
 **📝 Programming Languages:**
 
@@ -21,7 +23,7 @@ ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI
 
 **🚀 Personal Interests:**
 
-Science, Robotics, Machine Learning, Mathematics, Ecology, Healthy Lifestyle
+Science, Artificial Intelligence, Robotics, Simulation, Mathematics, Sustainability, Continuous Learning, Healthy Lifestyle, Running, Travel
 
 **📝 Google Scholar:**
 
