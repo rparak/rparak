@@ -9,10 +9,10 @@ With extensive experience leading research initiatives and mentoring engineers a
 I actively contribute to the robotics and AI community through open-source projects, with many shared on GitHub and YouTube, and through peer-reviewed publications accessible via Google Scholar. I also regularly present my work at international and regional conferences, as well as B2B meetups, to foster knowledge exchange and strengthen community engagement.
 
 I believe that meaningful progress in technology and research arises from a balanced combination of deep understanding and hands-on experience. Here are a few guiding thoughts that reflect my approach:
-'''
+```
 "If you want to improve something, you must first understand it. The combination of theoretical and practical knowledge is not an option—it is a must."
 "Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth."
-'''
+```
 
 Beyond my professional work, I am dedicated to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
 
