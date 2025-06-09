@@ -1,6 +1,6 @@
 # 🙋‍♂️ About me ...
 
-I am an enthusiastic and passionate researcher specializing in industrial artificial intelligence, robotics, and simulation, with a strong focus on developing AI-driven solutions to address complex engineering challenges and improve the efficiency, flexibility, and autonomy of industrial systems.
+I am a passionate researcher specializing in industrial artificial intelligence, robotics, and simulation, with a strong focus on developing AI-driven solutions to address complex engineering challenges and improve the efficiency, flexibility, and autonomy of industrial systems.
 
 My Ph.D. research at Brno University of Technology focused on advancing methods in industrial robotics, aligned with the principles of modern industry. This work laid a solid foundation for my current efforts, which center on developing intelligent autonomous systems for flexible manufacturing environments.
 
