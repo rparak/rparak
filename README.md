@@ -4,7 +4,7 @@ I am a passionate researcher specializing in industrial artificial intelligence,
 
 My Ph.D. research at Brno University of Technology focused on advancing methods in industrial robotics, aligned with the principles of modern industry. This work laid a solid foundation for my current efforts, which center on developing intelligent autonomous systems for flexible manufacturing environments.
 
-With extensive experience leading research initiatives and mentoring engineers and junior researchers, I am committed to driving technological innovation through methodical, high-quality applied research. My work bridges theoretical development with practical implementation, ensuring solutions are both cutting-edge and industry-relevant.
+With extensive experience leading R&D projects and mentoring engineers and junior researchers, I am committed to driving technological innovation through methodical, high-quality applied research. My work bridges theoretical development with practical implementation, ensuring solutions are both cutting-edge and industry-relevant.
 
 I actively contribute to the robotics and AI community through open-source projects, with many shared on GitHub and YouTube, and through peer-reviewed publications accessible via Google Scholar. I also regularly present my work at international and regional conferences, as well as B2B meetups, to foster knowledge exchange and strengthen community engagement.
 
