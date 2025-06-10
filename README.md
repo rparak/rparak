@@ -1,19 +1,12 @@
 # 🙋‍♂️ About me ...
 
-I am a passionate researcher specializing in industrial artificial intelligence, robotics, and simulation, with a strong focus on developing AI-driven solutions to address complex engineering challenges and improve the efficiency, flexibility, and autonomy of industrial systems.
+Passionate and driven researcher specializing in industrial artificial intelligence, robotics, and simulation, with a strong focus on developing AI-based solutions to address complex engineering challenges and enhance efficiency, flexibility, and autonomy.
 
-My Ph.D. research at Brno University of Technology focused on advancing methods in industrial robotics, aligned with the principles of modern industry. This work laid a solid foundation for my current efforts, which center on developing intelligent autonomous systems for flexible manufacturing environments.
+Holds a Ph.D. from Brno University of Technology, with research focused on developing advanced methods in industrial robotics, aligned with the principles of modern robotics. Through methodical, high-quality applied research, bridges theoretical development with practical implementation, ensuring solutions are both cutting-edge and industry-relevant—work that was awarded the Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0.
 
-With extensive experience leading R&D projects and mentoring engineers and junior researchers, I am committed to driving technological innovation through methodical, high-quality applied research. My work bridges theoretical development with practical implementation, ensuring solutions are both cutting-edge and industry-relevant.
+Actively contributes to the robotics and AI community through open-source projects—many available on GitHub and YouTube—as well as peer-reviewed publications accessible via Google Scholar. Regularly presents research at international and regional conferences and B2B meetups to foster knowledge exchange and strengthen community engagement.
 
-I actively contribute to the robotics and AI community through open-source projects, with many shared on GitHub and YouTube, and through peer-reviewed publications accessible via Google Scholar. I also regularly present my work at international and regional conferences, as well as B2B meetups, to foster knowledge exchange and strengthen community engagement.
-
-I believe that meaningful progress in technology and research arises from a balanced combination of deep understanding and hands-on experience. Here are a few guiding thoughts that reflect my approach:
-
-1. "If you want to improve something, you must first understand it. The combination of theoretical and practical knowledge is not an option—it is a must."
-2. "Active participation within the open-source community, not only as a user but also as a contributor, is essential to ensuring continued growth."
-
-Beyond my professional work, I am dedicated to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
+Beyond professional pursuits, committed to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
 
 **📝 Programming Languages:**
 
