@@ -2,7 +2,7 @@
 
 Passionate and driven researcher specializing in industrial artificial intelligence, robotics, and simulation, with a strong focus on developing AI-based solutions to address complex engineering challenges and enhance efficiency, flexibility, and autonomy.
 
-Holds a Ph.D. from Brno University of Technology, with research focused on developing advanced methods in industrial robotics, aligned with the principles of modern robotics. Through methodical, high-quality applied research, bridges theoretical development with practical implementation, ensuring solutions are both cutting-edge and industry-relevant—work that was awarded the Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0.
+Holds a Ph.D. from Brno University of Technology, with research focused on developing advanced methods in industrial robotics aligned with modern robotics principles. Dissertation awarded the Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0. Through methodical, high-quality applied research, the dissertation bridges theoretical development with practical implementation, ensuring solutions that are both cutting-edge and industry-relevant.
 
 Actively contributes to the robotics and AI community through open-source projects, with many available on GitHub and YouTube, as well as through peer-reviewed publications accessible via Google Scholar. Regularly presents research at international and regional conferences, as well as B2B meetups, to foster knowledge exchange and strengthen community engagement.
 
