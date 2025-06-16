@@ -8,34 +8,34 @@ Actively contributes to the robotics and AI community through open-source projec
 
 Beyond professional pursuits, committed to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
 
-**🔎 Research:**
+**🔎 Research**
 
 Advanced Research Methodologies, Data Collection & Analysis, Literature Review, Reading & Writing of Scientific Papers, Presentation & Communication, Critical Thinking & Problem Solving
 
-**✨ Expertise Areas:**
+**✨ Expertise Areas**
 
 Simulation, Robotics, Kinematics, Motion & Path Planning, Synthetic Data Generation, Machine Vision & Image Processing, Optimization, Evolutionary Computation, Machine Learning & Reinforcement Learning
 
-**📝 Programming Languages:**
+**📝 Programming Languages**
 
 Python, C, C++, C\#, IEC 61131-3, MATLAB
 
-**🚀 Personal Interests:**
+**🚀 Personal Interests**
 
 Science, Artificial Intelligence, Robotics, Simulation, Mathematics, Sustainability, Continuous Learning, Healthy Lifestyle, Running, Travel
 
-**📝 Google Scholar:**
+**📝 Google Scholar**
 
 https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 
-**✉️ Contact:**
+**✉️ Contact**
 
 <p align="center">
   <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/roman-parak-53960910a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-**🤝 Support:**
+**🤝 Support**
 
 <p align="center">
   <a href="https://www.youtube.com/@RomanParak/videos" target="_blank" rel="noopener noreferrer">
@@ -43,7 +43,7 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
-**GitHub:**
+**GitHub**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&&theme=graywhite&show_icons=true&include_all_commits=true)
 
