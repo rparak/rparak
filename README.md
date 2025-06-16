@@ -8,13 +8,17 @@ Actively contributes to the robotics and AI community through open-source projec
 
 Beyond professional pursuits, committed to continuous learning, sustainability, and maintaining a healthy lifestyle through running and mindful nutrition.
 
+**🔎 Research:**
+
+Advanced Research Methodologies, Data Collection & Analysis, Literature Review, Reading & Writing of Scientific Papers, Presentation & Communication, Critical Thinking & Problem Solving
+
+**✨ Expertise Areas:**
+
+Simulation, Robotics, Kinematics, Motion & Path Planning, Synthetic Data Generation, Machine Vision & Image Processing, Optimization, Evolutionary Computation, Machine Learning & Reinforcement Learning
+
 **📝 Programming Languages:**
 
-Python, C/C++, C#, ANSI C/C++, IEC 61131-3, MATLAB
-
-**👨‍💻 Tools & Technologies:**
-
-ROS (Robot Operating System), MoveIt, Gazebo, PyBullet, Unity3D, Blender, OpenAI Gym, NVIDIA Isaac Sim, TensorFlow, PyTorch, Nevergrad, YOLO, OpenCV
+Python, C, C++, C\#, IEC 61131-3, MATLAB
 
 **🚀 Personal Interests:**
 
