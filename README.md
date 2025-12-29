@@ -57,17 +57,20 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&hide_title=true&rank_icon=github)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&theme=default&cache_seconds=86400"
+  height="160"
+/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rparak)
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=rparak&cache_seconds=86400"
+  height="160"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparak&layout=compact)
-
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rparak&margin-w=10&margin-h=10)
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparak&layout=compact&cache_seconds=86400"
+  height="160"
+/>
 
 
 
