@@ -53,25 +53,6 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
-**GitHub**
-
-## 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&theme=default&cache_seconds=86400"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=rparak&cache_seconds=86400"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparak&layout=compact&cache_seconds=86400"
-  height="160"
-/>
-
 
 
 
