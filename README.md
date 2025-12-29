@@ -31,7 +31,7 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 **✉️ Contact**
 
 <p align="center">
-  <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer"> <img src="https://en.wikipedia.org/wiki/Microsoft_Outlook#/media/File:Microsoft_Outlook_Icon_(2025–present).svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/roman-parak-53960910a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
