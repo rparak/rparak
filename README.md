@@ -55,7 +55,8 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 
 **GitHub**
 
-![GitHub stats](https://YOUR-DEPLOYMENT.vercel.app/api?username=rparak&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&cache_seconds=21600)
+
 
 
 
