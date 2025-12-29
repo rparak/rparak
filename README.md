@@ -32,7 +32,7 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 
 <p align="center">
   <a href="mailto:roman.parak@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Outlook_Icon_%282019%E2%80%93present%29.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025–present%29.svg"
          alt="Outlook"
          height="40"
          style="vertical-align:top; margin:4px">
