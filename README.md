@@ -55,5 +55,6 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
 
 **GitHub**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&&theme=graywhite&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&include_all_commits=true&bg_color=00000000)
+
 
