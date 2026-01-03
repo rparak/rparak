@@ -53,7 +53,9 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&theme=dark&show_icons=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&theme=dark&hide_title=true&rank_icon=github&cache_seconds=86400"
+/>
 
 
 
