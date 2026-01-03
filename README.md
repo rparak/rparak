@@ -53,11 +53,6 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
-<!-- Cards -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&rank_icon=github&include_all_commits=true)](https://github.com/rparak)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparak&layout=compact)](https://github.com/rparak)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rparak)](https://github.com/rparak)
-
 
 
 
