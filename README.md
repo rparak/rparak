@@ -53,6 +53,7 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rparak&theme=dark&show_icons=true)
 
 
 
