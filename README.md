@@ -53,12 +53,6 @@ https://scholar.google.com/citations?user=BaYFvgIAAAAJ&hl=en
   </a>
 </p>
 
-## 📊 GitHub stats
-
-<!-- Badges (quick at-a-glance) -->
-![Followers](https://img.shields.io/github/followers/rparak?label=Followers&style=flat)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rparak&query=$.public_repos&label=Public%20repos&style=flat)
-
 <!-- Cards -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rparak&show_icons=true&rank_icon=github&include_all_commits=true)](https://github.com/rparak)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparak&layout=compact)](https://github.com/rparak)
